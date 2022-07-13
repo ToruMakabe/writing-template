@@ -1,0 +1,16 @@
+{
+    "rules": {
+        "prh": {
+            "rulePaths": [
+                "./prh-rules/WDP.yaml"
+            ]
+        }
+    },
+    "filters": {
+        "allowlist": {
+            "allowlistConfigPaths": [
+                "./prh-rules/allow.yaml"
+            ]
+        }
+    }
+}
